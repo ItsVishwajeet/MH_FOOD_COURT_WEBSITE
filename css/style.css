@@ -227,7 +227,7 @@ a:focus {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #ffffff;
+  background-color: ##1f1c1c;
   top: -10px;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
